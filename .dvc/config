@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+    site_cache_dir = .dvc/site-cache
+['remote "myremote"']
+    url = s3://mlops-lab-son-511590151379/dvc
